@@ -25,7 +25,7 @@ div {
 	margin: 10px;
 	background-color: grey;
 	border: 2px solid black;
-	height: 150px 
+	min-height: 150px 
 }
 section {
 	width: 90%;
